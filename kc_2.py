@@ -1,3 +1,5 @@
+#knowledge_check_2
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -10,3 +12,5 @@ y=df['median_house_value']
 
 plt.scatter(x,y)
 plt.show()
+
+
